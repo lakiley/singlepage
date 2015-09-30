@@ -1,0 +1,2 @@
+# singlepage
+A single page.
